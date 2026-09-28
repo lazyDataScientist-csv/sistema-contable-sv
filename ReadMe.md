@@ -9,7 +9,7 @@
 > **⚡ NOTA PARA EL EVALUADOR:**  
 > **No es necesario instalar ningún programa ni motor de base de datos local para evaluar este sistema.** Tanto el servidor web como la base de datos en Supabase están desplegados y activos en la nube las 24 horas.
 
-* 🌐 **Enlace a la Aplicación en la Nube:** `https://sistema-contable-sv.onrender.com`
+* 🌐 **Enlace a la Aplicación en la Nube:** `https://sistema-contable-sv.onrender.com` *AVISO : LA PAGINA TARDARA PROBABLEMENTE DE 40S A 90S EN CARGAR DEBIDO AL HOST GRATIUTO USADO PERO FUNCIONA CORRECTAMENTE.*
 * 💻 **Enlace en Entorno Local:** `http://localhost:8080/`
 * 🎥 **Video Explicativo del Sistema:** `https://drive.google.com/file/d/1VP8_kw3xoWYgkD4ay7GN24ZZKLiMaeOD/view?usp=drive_link`
 
