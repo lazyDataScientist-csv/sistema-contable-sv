@@ -9,9 +9,9 @@
 > **⚡ NOTA PARA EL EVALUADOR:**  
 > **No es necesario instalar ningún programa ni motor de base de datos local para evaluar este sistema.** Tanto el servidor web como la base de datos en Supabase están desplegados y activos en la nube las 24 horas.
 
-* 🌐 **Enlace a la Aplicación en la Nube:** `[PEGA_AQUÍ_EL_LINK_DE_TU_APP_EN_LA_NUBE]`
+* 🌐 **Enlace a la Aplicación en la Nube:** `https://sistema-contable-sv.onrender.com`
 * 💻 **Enlace en Entorno Local:** `http://localhost:8080/`
-* 🎥 **Video Explicativo del Sistema:** `[PEGA_AQUÍ_EL_LINK_DE_TU_VIDEO]`
+* 🎥 **Video Explicativo del Sistema:** `https://drive.google.com/file/d/1VP8_kw3xoWYgkD4ay7GN24ZZKLiMaeOD/view?usp=drive_link`
 
 ### Credenciales de Acceso Rápido para Evaluación
 En la pantalla de bienvenida puedes presionar el botón **"Acceso Rápido Evaluador (1 Clic)"** o ingresar manualmente con los siguientes datos:
@@ -49,7 +49,7 @@ Para probar y calificar el sistema **no se requiere instalación**. Basta con ab
 Si deseas compilar y ejecutar el proyecto localmente, **no necesitas instalar PostgreSQL en tu computadora**, ya que el sistema se conecta automáticamente al servidor en la nube de Supabase.
 
 #### Requisitos previos:
-* **Java Development Kit (JDK):** Versión 17 o superior.
+* **Java Development Kit (JDK):** Versión 21 o superior.
 * **IDE o Gestor de Construcción:** Apache NetBeans, IntelliJ IDEA, VS Code o Apache Maven desde terminal.
 * **Conexión a Internet:** Requerida para sincronizar los datos con Supabase.
 
@@ -57,5 +57,5 @@ Si deseas compilar y ejecutar el proyecto localmente, **no necesitas instalar Po
 
 1. **Clonar el repositorio desde GitHub:**
    ```bash
-   git clone [PEGA_AQUÍ_EL_LINK_DE_TU_REPOSITORIO_GITHUB]
+   git clone https://github.com/lazyDataScientist-csv/sistema-contable-sv
    cd contable
